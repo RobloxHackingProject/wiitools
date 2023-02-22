@@ -4,7 +4,7 @@ Wiitools, release coming soon.
 # Features
 * Decoding and encoding save files for NSMBW.
 * Downloading wii bootables (.wad) files, like the Mii channel and the wii menu.
-* 
+
 # Requirements
 * Python (version 10.6 or above should be good.)
 * Dolphin (Anything released 2021 or later should be good.)
